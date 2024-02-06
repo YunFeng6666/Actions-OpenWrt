@@ -17,7 +17,7 @@ on:
       repo_url:
         description: 'repo_url'
         required: true
-        default: 'https://github.com/coolsnowwolf/lede'
+        default: 'https://github.com/YunFeng6666/lede'
       repo_branch:
         description: 'repo_branch'
         required: true
